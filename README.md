@@ -1,7 +1,4 @@
 # Password Strength Checker  
-**author**: Obidiegwu Onyedikachi Henry Leonard  
-**output**: github_document  
-
 
 # Overview
 
